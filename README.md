@@ -41,12 +41,12 @@ The main purpose of the assignment was to perform Data Modelling on the merged d
   
   <p align="center">Using political party attribute in the dataset</p>
   
-  ![img](https://lh3.googleusercontent.com/UzEIY3xuEeri1sd6ixbbhojC4NdmkDaMLJ43qPAz2LfKlyI1h0OwXlb85y2PtvXrPp0L8Ug8JwxYB3k8P_swoMhaAxPMKu5R93FItCseqTxLmRngV7l5xu3ZcBvxOze4iwnvhv7W)
+  ![img](votes1.png)
   
   <p align="center">Using political party predicted by SVM</p>
   
-  ![img](https://lh3.googleusercontent.com/n-82Lptqh0DD_sMmcFoV1JEnYSZrAaxUk-1m9aD7LupXssKyp4XwOiH7naCU6uLrAUSrgCh7QQBWOrSAT17bSHSM3SNghvcB3AZWu3y4MYSiJJtGtnGg78H6ruzOzhsqPqliQ5lF)
+  ![img](votes2.png)
 
 ----------
 
-Check out the [Jupyter Notebook](Election_Modelling.ipynb "US Election Data Modelling") or [the project report](https://docs.google.com/document/d/1w3Hp9WaRaJIc5R916e6VGTBtik7xki5qSDiWj2TZEu8/edit?usp=sharing "Project Report") to see the data science flow implemented.
+Check out the [Jupyter Notebook](Election_Modelling.ipynb "US Election Data Modelling") or [the project report](Project.pdf "Project Report") to see the data science flow implemented.
